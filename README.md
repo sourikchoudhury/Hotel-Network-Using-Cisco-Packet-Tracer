@@ -23,7 +23,9 @@ The network topology includes:
 
 ### Network Topology
 
-![Hotel Network Topology](images\network-topology.PNG)
+<p align="center">
+  <img src="images\network-topology.PNG" alt="Hotel Network Topology" width="1000">
+</p>
 
 ## Key Features
 
